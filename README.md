@@ -1,6 +1,6 @@
 # Projet : Plan des Moindres Carrés
 
-Ce projet consiste à importer un nuage de points 3D à partir d'un fichier texte, calculer le **plan des moindres carrés** associé, et visualiser les résultats avec Python.
+Ce projet consiste à importer un nuage de points 3D à partir d'un fichier texte, calculer le plan des moindres carrés associé, et visualiser les résultats avec Python.
 
 ## Structure du dépôt
 - `data/` : contient le fichier `nuage_de_points.txt` avec les données (X, Y, Z).
